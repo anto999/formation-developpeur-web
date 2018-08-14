@@ -1,0 +1,15 @@
+p
+{
+    color : red
+}
+
+select{
+    font-size: 30px;
+}
+
+.histoire{
+    color: red;
+    width: 500px;
+    height: 80px;
+    background-color: yellow;
+}    
